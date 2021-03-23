@@ -1,1 +1,1 @@
-# Estimating-Disease-Eisk-Using-Spatial-Data
+# Estimating Disease Eisk Using Spatial Data
